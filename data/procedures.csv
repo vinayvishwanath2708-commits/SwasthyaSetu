@@ -1,0 +1,6 @@
+procedure_id,name,category,keywords,source
+P001,Cataract Surgery,Ophthalmology,"cataract,eye,vision,lens,phacoemulsification,IOL",demo
+P002,Caesarean Section,Obstetrics,"c-section,csection,caesarean,delivery,birth,maternity,pregnancy",demo
+P003,Knee Replacement,Orthopaedics,"knee,replacement,arthroplasty,joint,TKR,total knee",demo
+P004,Angioplasty with Stent,Cardiology,"angioplasty,stent,heart,coronary,PTCA,balloon,cardiac",demo
+P005,MRI Brain,Radiology,"MRI,brain,scan,magnetic,neuroimaging,cerebral",demo

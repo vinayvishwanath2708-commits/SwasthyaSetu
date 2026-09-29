@@ -1,0 +1,9 @@
+hospital_id,name,type,city,lat,lng,nabh,scheme_ids,cashless_insurance,source
+H001,Rajiv Gandhi Government General Hospital,government,Hyderabad,17.3850,78.4867,0,"SCH001,SCH002,SCH003,SCH004,SCH005,SCH006,SCH007,SCH008,SCH009,SCH010",0,demo
+H002,Osmania General Hospital (Demo),government,Hyderabad,17.3616,78.4747,0,"SCH001,SCH002,SCH003,SCH004,SCH005,SCH006,SCH007,SCH008,SCH009,SCH010",0,demo
+H003,Nirmal Trust Hospital (Demo),trust,Hyderabad,17.4400,78.3489,1,"SCH001,SCH002,SCH003,SCH004,SCH005,SCH006,SCH007,SCH008,SCH009,SCH010",1,demo
+H004,Sunrise Private Hospital (Demo),private,Hyderabad,17.4156,78.4347,1,"SCH001,SCH002,SCH006,SCH007",1,demo
+H005,Apollo Spectra (Demo),corporate,Hyderabad,17.4239,78.4738,1,,1,demo
+H006,Rainbow Corporate Medical Centre (Demo),corporate,Hyderabad,17.4485,78.3615,1,,1,demo
+H007,Warangal District Government Hospital (Demo),government,Warangal,17.9784,79.5941,0,"SCH001,SCH002,SCH003,SCH004,SCH005,SCH006,SCH007,SCH008,SCH009,SCH010",0,demo
+H008,Warangal Care Private Hospital (Demo),private,Warangal,17.9689,79.5941,0,"SCH001,SCH006",1,demo

@@ -1,0 +1,11 @@
+scheme_id,name,procedure_id,package_rate,max_cover_per_family,eligibility_rule,source
+SCH001,PM-JAY (Ayushman Bharat),P001,8000,500000,has_scheme_card AND hospital_empanelled,demo
+SCH002,PM-JAY (Ayushman Bharat),P002,9000,500000,has_scheme_card AND hospital_empanelled,demo
+SCH003,PM-JAY (Ayushman Bharat),P003,80000,500000,has_scheme_card AND hospital_empanelled,demo
+SCH004,PM-JAY (Ayushman Bharat),P004,150000,500000,has_scheme_card AND hospital_empanelled,demo
+SCH005,PM-JAY (Ayushman Bharat),P005,3500,500000,has_scheme_card AND hospital_empanelled,demo
+SCH006,Telangana Aarogyasri,P001,9500,200000,has_scheme_card AND hospital_empanelled AND city_in_telangana,demo
+SCH007,Telangana Aarogyasri,P002,11000,200000,has_scheme_card AND hospital_empanelled AND city_in_telangana,demo
+SCH008,Telangana Aarogyasri,P003,90000,200000,has_scheme_card AND hospital_empanelled AND city_in_telangana,demo
+SCH009,Telangana Aarogyasri,P004,160000,200000,has_scheme_card AND hospital_empanelled AND city_in_telangana,demo
+SCH010,Telangana Aarogyasri,P005,4000,200000,has_scheme_card AND hospital_empanelled AND city_in_telangana,demo
